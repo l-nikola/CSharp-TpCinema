@@ -1,0 +1,7 @@
+C:\Users\fouka\source\repos\Conception d'une classe\Conception d'une classe\bin\Debug\Conception d'une classe.exe.config
+C:\Users\fouka\source\repos\Conception d'une classe\Conception d'une classe\bin\Debug\Conception d'une classe.exe
+C:\Users\fouka\source\repos\Conception d'une classe\Conception d'une classe\bin\Debug\Conception d'une classe.pdb
+C:\Users\fouka\source\repos\Conception d'une classe\Conception d'une classe\obj\Debug\Conception d'une classe.csproj.AssemblyReference.cache
+C:\Users\fouka\source\repos\Conception d'une classe\Conception d'une classe\obj\Debug\Conception d'une classe.csproj.CoreCompileInputs.cache
+C:\Users\fouka\source\repos\Conception d'une classe\Conception d'une classe\obj\Debug\Conception d'une classe.exe
+C:\Users\fouka\source\repos\Conception d'une classe\Conception d'une classe\obj\Debug\Conception d'une classe.pdb
